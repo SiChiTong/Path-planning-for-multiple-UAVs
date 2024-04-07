@@ -7,7 +7,7 @@
 This repository contains my bachelor thesis project, which I was writing at FEE CTU (FEL ČVUT) in Prague.
 The name of my bachelor program is Cybernetics and Robotics :mechanical_arm:. This README provides only a meager view on my whole work,
 that is full of details and nuances. That said, I encourage you to take a look at my thesis text, 
-located in [a directory](https://github.com/poludmik/Path-planning-for-multiple-UAVs/tree/master/LaTeX_text).
+located as a LaTeX zip in [a directory](https://github.com/poludmik/Path-planning-for-multiple-UAVs/tree/master/LaTeX_text) or on [Semantic Scholar as a PDF doc](https://www.semanticscholar.org/paper/An-Improved-RRT*-Algorithm-for-Multi-Robot-Path-Mikhail-Nascimento/7a128c52bf8b16afd9ed5cfbc0e87c11e4fb29e1?utm_source=direct_link).
 
 ## Abstract
 
